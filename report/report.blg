@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: report.aux
+The style file: unsrt.bst
+Illegal, another \bibstyle command---line 48 of file report.aux
+ : \bibstyle
+ :          {ieee}
+I'm skipping whatever remains of this command
+Database file #1: references.bib
+Warning--can't use both volume and number fields in krawczyk2005lightness
+Warning--can't use both volume and number fields in johnson2003rendering
+Warning--can't use both volume and number fields in durand2002fast
+Warning--can't use both volume and number fields in yamaguchi2004study
+Warning--empty journal in hunt1967reproduction
+You've used 13 entries,
+            1791 wiz_defined-function locations,
+            524 strings with 5675 characters,
+and the built_in function-call counts, 3402 in all, are:
+= -- 329
+> -- 112
+< -- 10
++ -- 43
+- -- 30
+* -- 210
+:= -- 493
+add.period$ -- 44
+call.type$ -- 13
+change.case$ -- 13
+chr.to.int$ -- 0
+cite$ -- 18
+duplicate$ -- 169
+empty$ -- 342
+format.name$ -- 30
+if$ -- 797
+int.to.chr$ -- 0
+int.to.str$ -- 13
+missing$ -- 12
+newline$ -- 67
+num.names$ -- 13
+pop$ -- 49
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 95
+stack$ -- 0
+substring$ -- 219
+swap$ -- 68
+text.length$ -- 10
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 5
+while$ -- 34
+width$ -- 15
+write$ -- 148
+(There was 1 error message)

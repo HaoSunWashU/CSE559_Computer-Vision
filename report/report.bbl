@@ -1,0 +1,79 @@
+\begin{thebibliography}{10}
+
+\bibitem{kuang2007icam06}
+Jiangtao Kuang, Garrett~M Johnson, and Mark~D Fairchild.
+\newblock icam06: A refined image appearance model for hdr image rendering.
+\newblock {\em Journal of Visual Communication and Image Representation},
+  18(5):406--414, 2007.
+
+\bibitem{krawczyk2005lightness}
+Grzegorz Krawczyk, Karol Myszkowski, and Hans-Peter Seidel.
+\newblock Lightness perception in tone reproduction for high dynamic range
+  images.
+\newblock In {\em Computer Graphics Forum}, volume~24, pages 635--645. Wiley
+  Online Library, 2005.
+
+\bibitem{livingstone2002vision}
+Margaret Livingstone.
+\newblock Vision and art: The biology of seeing (new york: Harry n. abrams).
+\newblock {\em Inc. Publishers}, 2002.
+
+\bibitem{hunt1987reproduction}
+RWG Hunt.
+\newblock The reproduction of colour in photography, printing and television,
+  (tolworth, england, 1987.
+
+\bibitem{adams1981print}
+Ansel Adams.
+\newblock The print, the ansel adams photography series 3.
+\newblock {\em Little, Brown and Compagny}, 1981.
+
+\bibitem{qiu2006tone}
+Guoping Qiu, Jian Guan, Jian Duan, and Min Chen.
+\newblock Tone mapping for hdr image using optimization a new closed form
+  solution.
+\newblock In {\em Pattern Recognition, 2006. ICPR 2006. 18th International
+  Conference on}, volume~1, pages 996--999. IEEE, 2006.
+
+\bibitem{reinhard2002photographic}
+Erik Reinhard, Michael Stark, Peter Shirley, and James Ferwerda.
+\newblock Photographic tone reproduction for digital images.
+\newblock {\em ACM transactions on graphics (TOG)}, 21(3):267--276, 2002.
+
+\bibitem{devlin2002star}
+Kate Devlin, Alan Chalmers, Alexander Wilkie, and Werner Purgathofer.
+\newblock Star report on tone reproduction and physically based spectral
+  rendering.
+\newblock In {\em Eurographics 2002}. Eurographics Association, 2002.
+
+\bibitem{fairchild2004icam}
+Mark~D Fairchild and Garrett~M Johnson.
+\newblock icam framework for image appearance, differences, and quality.
+\newblock {\em Journal of Electronic Imaging}, 13(1):126--138, 2004.
+
+\bibitem{johnson2003rendering}
+Garrett~M Johnson and Mark~D Fairchild.
+\newblock Rendering hdr images.
+\newblock In {\em Color and Imaging Conference}, volume 2003, pages 36--41.
+  Society for Imaging Science and Technology, 2003.
+
+\bibitem{durand2002fast}
+Fr{\'e}do Durand and Julie Dorsey.
+\newblock Fast bilateral filtering for the display of high-dynamic-range
+  images.
+\newblock In {\em ACM transactions on graphics (TOG)}, volume~21, pages
+  257--266. ACM, 2002.
+
+\bibitem{yamaguchi2004study}
+Hiroshi Yamaguchi and Mark Fairchild.
+\newblock A study of simultaneous lightness perception for stimuli with
+  multiple illumination levels.
+\newblock In {\em Color and Imaging Conference}, volume 2004, pages 22--28.
+  Society for Imaging Science and Technology, 2004.
+
+\bibitem{hunt1967reproduction}
+Robert William~Gainer Hunt.
+\newblock The reproduction of colour.
+\newblock 1967.
+
+\end{thebibliography}
